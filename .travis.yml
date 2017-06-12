@@ -1,0 +1,21 @@
+language: ruby
+sudo: false
+cache:
+  bundler: true
+  yarn: true
+  directories:
+    - node_modules
+rvm:
+  - 2.4.0
+services:
+  - mysql
+before_install:
+
+before_script:
+  - bundle exec hanami db prepare
+  - bundle exec hanami db migrate
+  - npm install
+
+script:
+  - rake
+  - npm run travis

@@ -1,2 +1,4 @@
 /public/assets*
 /tmp
+node_modules
+apps/web/assets/javascripts/app.bundle.js
