@@ -1,0 +1,4 @@
+project=deutsch
+architecture=container
+test=rspec
+template=erb
