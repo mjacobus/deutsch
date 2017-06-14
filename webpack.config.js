@@ -2,7 +2,7 @@
 module.exports = {
   entry: './frontend/src/app.js',
   output: {
-    path: __dirname + '/apps/web/assets/javascripts/',
+    path: __dirname + '/public/js/',
     library: 'App',
     filename: 'app.bundle.js',
   },

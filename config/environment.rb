@@ -4,6 +4,9 @@ require 'hanami/model'
 require_relative '../lib/deutsch'
 require_relative '../apps/web/application'
 
+require 'dotenv'
+Dotenv.load
+
 Hanami.configure do
   mount Web::Application, at: '/'
 
@@ -40,7 +43,7 @@ Hanami.configure do
   end
 
   environment :production do
-    logger level: :info, formatter: :json
+    logger level: :info, formatter: :json, stream: 'log/production.log'
 
     mailer do
       delivery :smtp, address: ENV['SMTP_HOST'], port: ENV['SMTP_PORT']
