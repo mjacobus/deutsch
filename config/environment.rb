@@ -1,11 +1,12 @@
 require 'bundler/setup'
+
+require 'dotenv'
+Dotenv.load
+
 require 'hanami/setup'
 require 'hanami/model'
 require_relative '../lib/deutsch'
 require_relative '../apps/web/application'
-
-require 'dotenv'
-Dotenv.load
 
 Hanami.configure do
   mount Web::Application, at: '/'

@@ -10,10 +10,10 @@ group :development do
   # Code reloading
   # See: http://hanamirb.org/guides/projects/code-reloading
   gem 'shotgun'
-  gem 'capistrano'
-  gem 'capistrano-bundler'
-  gem 'capistrano-chruby'
-  gem 'capistrano-hanami'
+  gem 'capistrano', require: false
+  gem 'capistrano-bundler', require: false
+  gem 'capistrano-chruby', require: false
+  gem 'capistrano-hanami', require: false
 end
 
 gem 'dotenv', '~> 2.0'
