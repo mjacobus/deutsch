@@ -1,21 +1,29 @@
-language: ruby
+language: node_js
+
+node_js:
+  - 7.9
+
+before_install:
+  - rvm install 2.4
 sudo: false
+
+rvm:
+  - 2.4.0
+
 cache:
   bundler: true
   yarn: true
   directories:
     - node_modules
-rvm:
-  - 2.4.0
+
 services:
   - mysql
-before_install:
 
 before_script:
+  - npm install
   - bundle exec hanami db prepare
   - bundle exec hanami db migrate
-  - npm install
 
 script:
-  - rake
   - npm run travis
+  - rake
