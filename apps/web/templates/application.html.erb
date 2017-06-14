@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Web</title>
+    <title>Deutsh Lerne</title>
     <%= favicon %>
   </head>
   <body>
     <%= yield %>
+    <%= javascript 'application.js' %>
+    <%= javascript 'app.bundle.js' %>
   </body>
 </html>

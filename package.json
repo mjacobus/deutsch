@@ -1,0 +1,22 @@
+{
+  "name": "deutsch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mjacobus/deutsch.git",
+  "author": "marcelo.jacobus@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "./node_modules/.bin/webpack --watch",
+    "build": "./node_modules/.bin/webpack",
+    "travis": "yarn run build && yarn run test"
+  }
+}
