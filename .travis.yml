@@ -4,7 +4,7 @@ node_js:
   - 7.9
 
 before_install:
-  - rvm install 2.4
+  - rvm install 2.4.0
 sudo: false
 
 rvm:
