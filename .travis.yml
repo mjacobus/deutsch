@@ -5,6 +5,7 @@ node_js:
 
 before_install:
   - rvm install 2.4.0
+
 sudo: false
 
 rvm:
@@ -20,10 +21,11 @@ services:
   - mysql
 
 before_script:
-  - npm install
+  - yarn install
+  - bundle install
   - bundle exec hanami db prepare
   - bundle exec hanami db migrate
 
 script:
-  - npm run travis
+  - yarn run travis
   - rake
