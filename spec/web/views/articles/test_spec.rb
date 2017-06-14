@@ -7,9 +7,9 @@ RSpec.describe Web::Views::Articles::Test do
   let(:rendered)  { view.render }
 
   it 'exposes #foo' do
-    pending 'This is an auto-generated test. Edit it and add your own tests.'
-
-    # Example
-    expect(view.foo).to eq exposures.fetch(:foo)
+    # pending 'This is an auto-generated test. Edit it and add your own tests.'
+    #
+    # # Example
+    # expect(view.foo).to eq exposures.fetch(:foo)
   end
 end
