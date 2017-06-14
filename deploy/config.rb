@@ -36,7 +36,7 @@ namespace :deploy do
   task :yarn_build do
     on roles(:app), in: :sequence, wait: 5 do
       within(release_path) do
-        execute :yarn, :install
+        execute :yarn, :install, '--no-progress'
         execute :yarn, :build
       end
     end
