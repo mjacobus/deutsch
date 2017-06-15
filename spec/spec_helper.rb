@@ -1,6 +1,25 @@
 # Require this file for unit tests
 ENV['HANAMI_ENV'] ||= 'test'
 
+if ENV['CODE_COVERAGE']
+  require 'simplecov'
+  require 'coveralls'
+
+  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
+    SimpleCov::Formatter::HTMLFormatter,
+    Coveralls::SimpleCov::Formatter
+  ])
+
+  SimpleCov.start do
+    add_filter '/spec/'
+    add_filter '/config/'
+    add_filter '/apps/*/application.rb'
+    add_group 'Web', 'apps/web'
+    add_group 'Api', 'apps/api'
+    add_group 'Lib', 'lib'
+  end
+end
+
 require_relative '../config/environment'
 Hanami.boot
 Hanami::Utils.require!("#{__dir__}/support")

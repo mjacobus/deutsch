@@ -28,4 +28,5 @@ before_script:
 
 script:
   - yarn run travis
-  - rake
+  - CODE_COVERAGE=1 rake spec
+  - bundle exec rspec spec/integration
