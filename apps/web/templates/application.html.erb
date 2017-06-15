@@ -6,7 +6,7 @@
   </head>
   <body>
     <%= yield %>
-    <script src="/js/app.bundle.js" type="text/javascript"></script>
+    <%= javascript 'app.bundle.js' %>
     <%= javascript 'application.js' %>
   </body>
 </html>
