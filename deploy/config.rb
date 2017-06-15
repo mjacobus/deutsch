@@ -42,6 +42,25 @@ namespace :deploy do
     end
   end
 
+  desc 'Warmup application by making a curl request'
+  task :warmup do
+    on roles(:app), in: :sequence, wait: 5 do
+      within(release_path) do
+        execute :curl, "#{fetch(:application)}/articles", ">", 'tmp/warmpu.txt'
+      end
+    end
+  end
+
   before 'deploy:compile_assets', :yarn_build
   after :publishing, :restart
+  after :restart, :warmup
+end
+
+namespace :logs do
+  desc 'show log files'
+  task :show do
+    on roles(:app), in: :sequence, wait: 5 do
+      execute :tail, '-f', shared_path.join('*log'), '/var/log/nginx/*log'
+    end
+  end
 end
