@@ -1,6 +1,6 @@
 /public/assets*
 /tmp
 node_modules
-/public/js/app.bundle.js
+/apps/web/assets/javascripts/app.bundle.js
 /log
 /coverage
