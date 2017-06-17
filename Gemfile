@@ -7,6 +7,8 @@ gem 'koine-csv', '~> 0.2.2'
 gem 'koine-attributes', '~> 0.1.1'
 gem 'nurse-rb', '~> 2.0'
 gem 'hanami-bootstrap'
+gem 'jsx'
+gem 'babel-transpiler'
 
 gem 'mysql2'
 

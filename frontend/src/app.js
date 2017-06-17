@@ -1,2 +1,7 @@
 import MultipleOptionQuestion from './MultipleChoiceQuestion'
-export { MultipleOptionQuestion }
+import Setup from './Setup'
+
+export {
+  MultipleOptionQuestion,
+  Setup,
+}
