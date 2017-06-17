@@ -1,3 +1,8 @@
-<h1>Test your skills</h1>
+<div class="" id="app" data-nouns="<%= current_page_as_json %>"></div>
 
-<div id="app"></div>
+<%= javascript 'articles_test.js' %>
+
+<div class="btn-group pull-right">
+  <a class="btn btn-danger pull-left" href="<%= reload_link %>">Try again</a>
+  <a class="btn btn-success pull-right" href="<%= link_to_next_page %>">Next page</a>
+</div>

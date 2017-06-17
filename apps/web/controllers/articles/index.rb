@@ -6,7 +6,7 @@ module Web::Controllers::Articles
 
     def call(params)
       @articles = ApplicationDependencies.get(:articles_repository).fetch_all(
-        limit: params[:per_page],
+        per_page: params[:per_page],
         page: params[:page],
       )
     end

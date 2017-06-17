@@ -23,9 +23,17 @@ export default class MultipleChoiceQuestion {
     return this._hint;
   }
 
+  hasAnswer() {
+    return this._answer !== null;
+  }
+
   setAnswer(answer) {
     this._answer = answer;
     return this;
+  }
+
+  getAnswer() {
+    return this._answer;
   }
 
   isCorrect() {
