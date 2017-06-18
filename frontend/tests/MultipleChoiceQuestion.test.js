@@ -1,6 +1,6 @@
 import MultipleChoiceQuestion from './../src/MultipleChoiceQuestion'
 
-describe('something', () => {
+describe('MultipleChoiceQuestion', () => {
   let question;
 
   beforeEach(() => {
@@ -26,6 +26,18 @@ describe('something', () => {
 
   it('returns hint', () => {
     expect(question.getHint()).toEqual('Lamp');
+  });
+
+  it('returns given answer', () => {
+    let answer = question.setAnswer('der').getAnswer();
+
+    expect(answer).toEqual('der');
+  });
+
+  it('can tell if answer was given', () => {
+    expect(question.hasAnswer()).toEqual(false);
+    question.setAnswer('der');
+    expect(question.hasAnswer()).toEqual(true);
   });
 
   describe('isCorrect', () => {

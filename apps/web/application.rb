@@ -138,7 +138,9 @@ module Web
         # See: http://hanamirb.org/guides/assets/compressors
         #
         # In order to skip JavaScript compression comment the following line
-        javascript_compressor :builtin
+        # TODO: Uncaught SyntaxError: Unexpected token var for bootstrap file
+        # After fixed, js can be compressed
+        # javascript_compressor :builtin
 
         # Stylesheet compressor
         #

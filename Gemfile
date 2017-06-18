@@ -9,6 +9,8 @@ gem 'nurse-rb', '~> 2.0'
 gem 'hanami-bootstrap'
 gem 'jsx'
 gem 'babel-transpiler'
+gem 'jquery-hanami'
+gem 'sass'
 
 gem 'mysql2'
 

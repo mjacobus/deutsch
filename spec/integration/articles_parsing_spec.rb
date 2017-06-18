@@ -5,7 +5,7 @@ RSpec.describe 'articles parsing' do
     skip if ENV['CODE_COVERAGE']
 
     articles = ApplicationDependencies.get(:articles_repository).fetch_all(
-      limit: 10,
+      per_page: 10,
       page: 1,
     )
 
