@@ -1,5 +1,7 @@
 <h1>Artikel</h1>
 
+<p class="alert alert-info"><strong><%= articles.current_page.length %></strong> nouns listed bellow with their articles</p>
+
 <table class="table table-striped">
   <thead>
     <tr>
@@ -9,7 +11,7 @@
     </tr>
   </thead>
   <tbody>
-    <% articles.each do |article| %>
+    <% articles.current_page.each do |article| %>
       <tr>
         <td> <%= article.article %></td>
         <td> <%= article.noun %></td>

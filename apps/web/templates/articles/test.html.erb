@@ -1,8 +1,16 @@
+<p class="alert alert-info">
+  Page <strong><%= current_page %></strong> of <strong><%= number_of_pages %></strong>.
+  Showing <strong><%= per_page  %></strong> per page.
+</p>
+
 <div class="" id="app" data-nouns="<%= current_page_as_json %>"></div>
 
 <%= javascript 'articles_test.js' %>
 
 <div class="btn-group pull-right">
+  <% if has_previous_page? %>
+    <a class="btn btn-success pull-left" href="<%= link_to_previous_page %>">Previous</a>
+  <% end %>
   <a class="btn btn-danger pull-left" href="<%= reload_link %>">Try again</a>
   <a class="btn btn-success pull-right" href="<%= link_to_next_page %>">Next page</a>
 </div>

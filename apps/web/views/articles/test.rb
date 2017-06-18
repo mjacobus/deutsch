@@ -15,6 +15,10 @@ module Web::Views::Articles
       paginated.current_page_number + 1
     end
 
+    def previous_page
+      paginated.current_page_number - 1
+    end
+
     def per_page
       paginated.per_page
     end
@@ -23,8 +27,16 @@ module Web::Views::Articles
       paginated.current_page_number
     end
 
-    def link_to_next_page
-      "/articles/test?per_page=#{per_page}&page=#{next_page}"
+    def has_previous_page?
+      previous_page > 0
+    end
+
+    def number_of_pages
+      paginated.pages.length
+    end
+
+    def link_to_previous_page
+      "/articles/test?per_page=#{per_page}&page=#{previous_page}"
     end
 
     def link_to_next_page
