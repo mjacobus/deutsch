@@ -1,27 +1,48 @@
 German
+---------
 
-Wie heist du
+- Wie heist du
+- Was bedeutet...? What is the meaning of...
+- Wie sagt man... ? - How do you say...
+- Wie bitte? - Pardon? Come again?
+- Was machst du in HH? - What do you do in Hamburg?
 
-Was bedeutet...? o que significa
+- Ich verstehe nicht - I do not understand
+- Ich Weißt (es)s nicht - I do not know (it)
+- Ich schreibe alles - I wrote everything down
+- Ich bin fertig - I am ready
+- Noch einmal, bitte langsam! - Once again, slower please
+- Arbeite - Work
+- Ich arbeite bei Xing.
+- Das is wichtig - That is important
+- Das is schwer/leicht - That is difficult (heavy)/easy (light)
 
-Wie sagt man... ? - Como se diz...
+- Wo?
+- Woher?
+- Wie? - Who
+- Was?
 
-Ich verstehe nicht - Não entendo
+- Lustig - funny
 
-Ich Weißt (es) nicht - I do not know (it)
+## Verbs
 
+### Regular
 
-Ich schreibe alles - Eu escrevi tudo
-Ich bin fertig - Estou pronto
-Noch einmal, bitte langsam! - Once again, slower please
-Wie bitte? - Pardon? Come again?
+- ich            - e
+- du             - st
+- er, sie, es    - t (test)
+- wir (we)       - en
+- ihr (You)      - t
+- sie/Sie (they) - en
 
-Arbeite - Trabalhar
+### Irregular
 
-Was machst du in HH? - What do you do in Hamburg?
+#### Sein
 
-Ich arbeite bei Xing.
+- bin
+- bist
+- ist
+- sind
+- seid
+- sind
 
-Das is wichtig - That is important
-
-Das is schwer/leicht - That is difficult (heavy)/easy (light)
