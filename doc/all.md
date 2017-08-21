@@ -46,3 +46,34 @@ German
 - seid
 - sind
 
+## Week days
+
+- Heute ist Montag - Today is Monday
+- Morgen ist Dienstag - Tomorrow is Tuesday
+- Übermorgen ist Mittwoch - The day after tomorrow is Wednesday
+- Dann kommt Donnerstag - Then it is...
+- Dann kommt Freitag
+- Dann kommt Samstag
+- Dann kommt Sonntag
+
+- Gestern war - Yesterday was
+- Vorgestern war - The day before yesterday was
+
+
+- Wie war das Wochenende
+  - Wie war dein (your) Wochenende
+- Das wetter war nicht so gut
+
+## A, B, C...
+
+
+- Ich war nicht here - I was not here
+
+
+### Verbs
+
+- heißen
+- gehen - Walk
+- fahren - drive
+
+Hausaufgabe: Seite 5, b, c
