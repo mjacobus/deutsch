@@ -77,3 +77,43 @@ German
 - fahren - drive
 
 Hausaufgabe: Seite 5, b, c
+
+## 2017.08.24
+
+Ich come aus...
+
+- die (fem.) Türkei
+- die (fem.) Schweiz
+- der (mas.) Iran
+- der (mas.) Sudan
+- die (pl.) USA
+- die (pl.) Niederlande
+- Deutschland
+- Spanien
+- Brasilien
+- Ägypten
+- die Ukraine
+- Griechenland
+- Frankreich
+- Korea
+- der Sudan
+- die Slowakei
+- China
+- England
+
+- die + preposition = der Turkei - Ich komme `aus` **der** Türkei
+- der + preposition = dem Irau
+- der + preposition = den USA
+
+
+- Ich komme aus Russland
+- Er ist aus aus den Irak
+- Wir sind in **der** Slowakei
+
+
+- spreche
+- spr**i**cht
+- spr**i**cht
+- sprechen
+- sprecht
+- sprechen
