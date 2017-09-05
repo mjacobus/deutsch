@@ -112,7 +112,7 @@ Ich come aus...
 
 
 - spreche
-- spr**i**cht
+- spr**i**chst
 - spr**i**cht
 - sprechen
 - sprecht
