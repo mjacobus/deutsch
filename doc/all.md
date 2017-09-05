@@ -117,3 +117,20 @@ Ich come aus...
 - sprechen
 - sprecht
 - sprechen
+
+- 8 Stunde pro tag (eight hours per day)
+
+- Schlagzeug - Drums
+
+
+- **mögen** - like (something)
+- mag
+- magst
+- mag
+- mögen
+- mögt
+- mögen
+
+Tochter - daughter
+
+- Hausaufgabe 153: 8.1, 8.2
