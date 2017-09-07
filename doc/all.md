@@ -134,3 +134,28 @@ Ich come aus...
 Tochter - daughter
 
 - Hausaufgabe 153: 8.1, 8.2
+
+
+
+Sie
+
+View ist **Ihr** Vorname?
+Wie geht es **Ihnen**?
+
+
+Du
+
+Wie ist **dein** Vorname?
+Wie geht es **dir**?
+
+
+- Hausaufgabe 153: # 8.3, + Kaffee?
+- Hausaufgabe 156, # 1
+
+
+- nehme
+- nimmst
+- nimmt
+- nehmen
+- nehmt
+- nehmen
