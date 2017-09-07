@@ -101,9 +101,9 @@ Ich come aus...
 - China
 - England
 
-- die + preposition = der Turkei - Ich komme `aus` **der** Türkei
-- der + preposition = dem Irau
-- der + preposition = den USA
+- die + preposition = der Türkei - Ich komme `aus` **der** Türkei
+- der + preposition = dem Iran
+- der + preposition = den USA (plural)
 
 
 - Ich komme aus Russland
