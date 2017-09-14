@@ -159,3 +159,29 @@ Wie geht es **dir**?
 - nehmen
 - nehmt
 - nehmen
+
+
+-----------
+
+- Zum Beispiel (z.B) - for instance
+- Farbe - Color
+  - Blau
+  - Grün
+  - Rot
+
+
+- Wie viel + verb
+    - Wie viel Zucker möchtest du?
+- Warum - why
+
+
+- Haben
+  - habe
+  - hast
+  - hat
+  - haben
+  - habt
+  - haben
+
+
+Hausaufgabe p. 157: 4.3, 4.4
