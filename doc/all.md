@@ -185,3 +185,57 @@ Wie geht es **dir**?
 
 
 Hausaufgabe p. 157: 4.3, 4.4
+
+------------
+
+- + Plus
+- - Minus
+- x Ml
+- / Durch
+- = ist, macht, gleigh
+
+
+5*5=25
+8*7=56
+7*10=70
+12*12=144
+7*23=161?
+
+p. 28
+
+das Buch
+die kaffemaschine
+die washmashine
+der kuli, bleistift
+die DVD (de fau de)
+der stull
+die lampe
+der tisch
+der Drucker
+der Fernseher
+das Handy
+die DVD
+der Heft - Caderno
+das Wörterbuch
+die Schere - tesoura
+der Herd - Fogão
+der Wasserkocher
+das Bügeleisen
+
+lampe 20 zehr teuer
+drucker bilig ? 5 kaputt
+Fernseher ? 
+klein
+
+180
+8
+110
+130
+140
+
+teuer - bilig
+venig - viele
+new - alt
+
+Hausaufgabe
+S. 162, #1
