@@ -195,11 +195,11 @@ Hausaufgabe p. 157: 4.3, 4.4
 - = ist, macht, gleigh
 
 
-5*5=25
-8*7=56
-7*10=70
-12*12=144
-7*23=161?
+5\*5=25
+8\*7=56
+7\*10=70
+12\*12=144
+7\*23=161?
 
 p. 28
 
@@ -239,3 +239,22 @@ new - alt
 
 Hausaufgabe
 S. 162, #1
+
+der  Schlussel
+
+
+die Teekanne
+die Kaffeekanne
+die Thermoskanne
+das Schnäppchen - promoção
+
+Adjektive
+- teuer/billig
+- kaputt
+- schön/toll
+- groß/klein
+- lang/kurz
+- new/alt|gebraucht (second hand)
+
+- je/zusammen
+
