@@ -258,3 +258,43 @@ Adjektive
 
 - je/zusammen
 
+-----------------------
+
+
+fast - almost
+Zoll - inches
+zu wenig - too little
+
+120 fast neu
+
+
+150 - miller eletronic machine
+
+Was suchen die Personen?
+Was haben die Verkäufer?
+Was bezahlen die Käufer?
+
+kinder vagen
+120
+fast new
+70, 110
+95
+
+
+Washmaschine 
+150
+nein
+view ald
+2/3
+100
+130
+120
+
+(be)zahlen - pagar
+
+gebraucht - nicht new
+
+
+
+16.C
+17. C
