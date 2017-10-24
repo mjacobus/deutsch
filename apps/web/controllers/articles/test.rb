@@ -5,10 +5,11 @@ module Web::Controllers::Articles
     expose :articles
 
     def call(params)
-      @articles = ApplicationDependencies.get(:articles_repository).fetch_all(
-        per_page: params[:per_page],
-        page: params[:page],
-      )
+      filename = params[:filename] || 'articles'
+      factory = Factories::ArticlesRepositoryFactory.new
+      repository = factory.create_service(nil, filename: filename)
+
+      @articles = repository.fetch_all(per_page: params[:per_page], page: params[:page])
     end
   end
 end
