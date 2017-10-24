@@ -9,7 +9,9 @@ module Web::Controllers::Articles
       factory = Factories::ArticlesRepositoryFactory.new
       repository = factory.create_service(nil, filename: filename)
 
-      @articles = repository.fetch_all(per_page: params[:per_page], page: params[:page])
+      per_page = params[:per_page] || 100
+
+      @articles = repository.fetch_all(per_page: per_page, page: params[:page])
     end
   end
 end

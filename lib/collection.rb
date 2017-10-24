@@ -26,6 +26,7 @@ class Collection < SimpleDelegator
   end
 
   def sort_by_attribute(attribute_name)
-    self.class.new(sort_by(&attribute_name))
+    new_collection = __getobj__.sort_by(&attribute_name)
+    self.class.new(new_collection)
   end
 end
