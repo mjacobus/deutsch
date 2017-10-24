@@ -204,18 +204,18 @@ Hausaufgabe p. 157: 4.3, 4.4
 p. 28
 
 das Buch
-die kaffemaschine
-die washmashine
+die Kaffeemaschinen
+die Waschmaschine
 der kuli, bleistift
 die DVD (de fau de)
-der stull
+der Stuhl
 die lampe
-der tisch
+der Tisch
 der Drucker
 der Fernseher
 das Handy
 die DVD
-der Heft - Caderno
+das Heft - Caderno
 das Wörterbuch
 die Schere - tesoura
 der Herd - Fogão

@@ -1,36 +1,52 @@
 article,noun,translation,plural,
-das,Auto,Car
-das,Bild,?
-der,Bleistift,pencil
-die,Brille,Glasses
-das,Buch,Book
-das,Bügeleisen,Iron (for ironing clothes)
-die,CD,CD
-der,Computer,Computer,
-dei,Digitalkamera,Digital Camera
-der,Drucker,Printer
-die,DVD,DVD
-das,Fahrrad,Bicycle
-der,Fernseher,TV
-der,Fußball,Football
-das,Handy,Cellphone
-das,Heft,Note Book
-der,Herd,Stove
-die,Kaffeemaschinen,Coffee Machine
-der,Kinderwagen,Baby Trolley
-der,Kühlschrank,Refrigerator
-der,Kuli,Pen
-die,Lampe,Lamp
-der MP3-Player,MP3-Player
-der,Papierkorb,Recycle bin
-das,Radio,Radio
-die,Spulmaschine,Dish Washing Machine
-der,Staubsauger,Vacum Cleaner
-der,Stuhl,Chair
-die,Tasche,Purse
-die,Tasse,Cup
-der,Tish,Table
-die,Uhr,Clock
-die,Waschmaschine,Washing Machine
-der,Wasserkocher,Water Boiler
-das,Wörterbuch,Dictionary
+das, Auto,Car
+das, Bild,Picture
+das, Blau,Blue
+das, Buch,Book
+das, Bügeleisen,Iron (for ironing clothes)
+das, Fahrrad,Bicycle
+das, Grün,Green
+das, Handy,Cellphone
+das, Heft,Note Book
+das, Radio,Radio
+das, Rot,Red
+das, Schnäppchen, Bargain
+das, Wochenende,Weekend
+das, Wörterbuch,Dictionary
+der, Bleistift,pencil
+der, Computer,Computer,
+der, Dienstag,Tuesday
+der, Donnerstag,Thursday
+der, Drucker,Printer
+der, Fernseher,TV
+der, Freitag,Friday
+der, Fußball,Football
+der, Herd,Stove
+der, Kinderwagen,Baby Trolley
+der, Kuli,Pen
+der, Kühlschrank,Refrigerator
+der, MP3-Player,MP3-Player
+der, Mittwoch,Wednesday
+der, Montag,Monday
+der, Papierkorb,Recycle bin
+der, Samstag,Saturday
+der, Sonntag,Sunday
+der, Staubsauger,Vacum Cleaner
+der, Stuhl,Chair
+der, Tag,Day
+der, Tisch,Table
+der, Wasserkocher,Water Boiler
+die, Brille,Glasses
+die, CD,CD
+die, DVD,DVD
+die, Digitalkamera,Digital Camera
+die, Kaffeemaschinen,Coffee Machine
+die, Lampe,Lamp
+die, Schere,scissors
+die, Spulmaschine,Dish Washing Machine
+die, Tasche,Purse
+die, Tasse,Cup
+die, Teekanne, Teapot
+die, Thermoskanne, Thermos
+die, Uhr,Clock
+die, Waschmaschine,Washing Machine
