@@ -298,3 +298,34 @@ gebraucht - nicht new
 
 16.C
 17. C
+
+
+------------
+
+der Tagesablauf - daily routine
+Frühstücken
+zähne putzen - brush teeth
+duschen - shower
+schlafen - sleep
+fernsehen
+Musik/radio hören
+aufwachen - acordar
+aufstehen - get up
+
+
+
+
+Ich Frühstücke um 7:00 Uhr/ Um 7:00 Frühstücke ich
+Ich putze Zähne um 7:15/ Um 7:15 putze ich Z:ahne
+Ich dusche um 07 Uhr/
+Er schläft um 6:45
+
+Ich wache um 6:45 Uhr **auf**/ Um -- Wache ich auf
+
+anfangen - begins
+
+ich fange an
+
+Unregelmäßig - irregular verb
+trennbar verb - separable verb
+sich anziehen - get dressed
