@@ -18,9 +18,9 @@ class ArticlesRepository
 
   def filter(column)
     Entity.new(
-      column['article'].capitalize.strip,
-      column['noun'].capitalize.strip,
-      column['translation'].capitalize.strip
+      column['article'].to_s.strip.capitalize,
+      column['noun'].to_s.strip.capitalize,
+      column['translation'].to_s.strip.capitalize
     )
   end
 end

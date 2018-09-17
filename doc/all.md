@@ -185,3 +185,147 @@ Wie geht es **dir**?
 
 
 Hausaufgabe p. 157: 4.3, 4.4
+
+------------
+
+- + Plus
+- - Minus
+- x Ml
+- / Durch
+- = ist, macht, gleigh
+
+
+5\*5=25
+8\*7=56
+7\*10=70
+12\*12=144
+7\*23=161?
+
+p. 28
+
+das Buch
+die Kaffeemaschinen
+die Waschmaschine
+der kuli, bleistift
+die DVD (de fau de)
+der Stuhl
+die lampe
+der Tisch
+der Drucker
+der Fernseher
+das Handy
+die DVD
+das Heft - Caderno
+das Wörterbuch
+die Schere - tesoura
+der Herd - Fogão
+der Wasserkocher
+das Bügeleisen
+
+lampe 20 zehr teuer
+drucker bilig ? 5 kaputt
+Fernseher ? 
+klein
+
+180
+8
+110
+130
+140
+
+teuer - bilig
+venig - viele
+new - alt
+
+Hausaufgabe
+S. 162, #1
+
+der  Schlussel
+
+
+die Teekanne
+die Kaffeekanne
+die Thermoskanne
+das Schnäppchen - promoção
+
+Adjektive
+- teuer/billig
+- kaputt
+- schön/toll
+- groß/klein
+- lang/kurz
+- new/alt|gebraucht (second hand)
+
+- je/zusammen
+
+-----------------------
+
+
+fast - almost
+Zoll - inches
+zu wenig - too little
+
+120 fast neu
+
+
+150 - miller eletronic machine
+
+Was suchen die Personen?
+Was haben die Verkäufer?
+Was bezahlen die Käufer?
+
+kinder vagen
+120
+fast new
+70, 110
+95
+
+
+Washmaschine 
+150
+nein
+view ald
+2/3
+100
+130
+120
+
+(be)zahlen - pagar
+
+gebraucht - nicht new
+
+
+
+16.C
+17. C
+
+
+------------
+
+der Tagesablauf - daily routine
+Frühstücken
+zähne putzen - brush teeth
+duschen - shower
+schlafen - sleep
+fernsehen
+Musik/radio hören
+aufwachen - acordar
+aufstehen - get up
+
+
+
+
+Ich Frühstücke um 7:00 Uhr/ Um 7:00 Frühstücke ich
+Ich putze Zähne um 7:15/ Um 7:15 putze ich Z:ahne
+Ich dusche um 07 Uhr/
+Er schläft um 6:45
+
+Ich wache um 6:45 Uhr **auf**/ Um -- Wache ich auf
+
+anfangen - begins
+
+ich fange an
+
+Unregelmäßig - irregular verb
+trennbar verb - separable verb
+sich anziehen - get dressed
