@@ -140,7 +140,7 @@ GEM
     inflecto (0.0.2)
     jquery-hanami (0.1.0)
       hanami-assets
-    json (2.1.0)
+    json (2.3.1)
     jsx (0.0.1)
       execjs
       react-source (~> 0.13)
